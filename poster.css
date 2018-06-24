@@ -49,3 +49,8 @@ li a:hover{
     float: left;
 }
 
+a:link{
+    text-align: center;
+    margin: 10px;
+    font-size: 18px;
+}
