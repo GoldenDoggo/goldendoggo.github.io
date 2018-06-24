@@ -1,0 +1,38 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: darkred;
+    font-family: 'Russo One', sans-serif;
+    font-size: 15px;
+}
+h1{
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+    margin: 10px;
+    font-size: 18px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: black;
+   overflow: hidden;
+}
+li{
+    float: left;
+}
+
+li a{
+    color: red;
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background: darkslategray;
+}
